@@ -26,13 +26,13 @@ Me encuentro en transición profesional desde el mundo comercial y del emprendim
 
 ## 🛠️ Tech Stack / Herramientas
 
-`Notion` · `GitHub` · `Figma` · `Django` · `Python` · `Next.js` · `TailwindCSS` · `Vercel` · `PostgreSQL` · `Trello` · `Jira` · `Make (Integromat)`
+`Notion` · `GitHub` · `Django` · `Python` · `Next.js` · `TailwindCSS`  · `PostgreSQL` · `Trello` · `Jira` · `Make (Integromat)`
 
 ---
 
 ## 👤 Sobre mí
 
-Tengo una sólida base en el mundo comercial, fundé y operé proyectos como **Café el Mañanero**, y más recientemente lideré equipos de ventas en **[Nombre de empresa o proyecto]**. Esta trayectoria me dio experiencia en liderazgo, atención al cliente, diseño de servicios y validación temprana de ideas.
+Tengo una sólida base en el mundo comercial, fundé y operé proyectos como **Café el Mañanero**, y más recientemente lideré equipos de ventas en ** empresas de telecomunicaciones**. Esta trayectoria me dio experiencia en liderazgo, atención al cliente, diseño de servicios y validación temprana de ideas.
 
 Hoy, combino ese conocimiento con tecnología para crear soluciones reales que conecten con usuarios desde el primer día. Estoy abierto a aprender, colaborar y aportar desde mi experiencia en negocios a proyectos tecnológicos con propósito.
 
@@ -40,7 +40,7 @@ Hoy, combino ese conocimiento con tecnología para crear soluciones reales que c
 
 ## 🤝 Conecta conmigo
 
-- 📫 **Email:** [in.mancilla1992@gmail.com](mailto:in.mancilla1992@gmail.com)
+- 📫 **Email:** [n.mancilla1992@gmail.com](mailto:in.mancilla1992@gmail.com)
 - 💼 **[LinkedIn](https://www.linkedin.com/in/mancillawulff)**
 - 🌐 **[Mi sitio web](https://nimawu.github.io)**
 
