@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Nicolás Mancilla Wulff (aka **nimawu**) 
+# 👋 ¡Hola! Soy Nicolás Mancilla Wulff (aka **Nimawu**) 
 
 **Emprendedor digital · Explorador tecnológico · Product Owner Jr.** 
 
@@ -26,7 +26,7 @@ Me encuentro en transición profesional desde el mundo comercial y del emprendim
 
 ## 🛠️ Tech Stack / Herramientas
 
-`Notion` · `GitHub` · `Django` · `Python` · `Next.js` · `TailwindCSS`  · `PostgreSQL` · `Trello` · `Jira` · `Make (Integromat)`
+`Notion` · `GitHub` · `Django` · `Python` · `Ruby` · `TailwindCSS`  · `PostgreSQL` · `Trello` · `Jira` · `Dbeaver`
 
 ---
 
